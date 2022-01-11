@@ -15,7 +15,7 @@ News channel as at [Chizuru updates](https://t.me/chizuruupdates)
 
 ### Read these notes carefully before proceeding 
  - This bot is forked from saitama which is based on marie
- - Your code must be open source and a link to our repo
+ - Your code must be open source and ahd link to our repo
  - last, we don't support fork and asking for fork in our support group will result to gban.
 
 <details>
